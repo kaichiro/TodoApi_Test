@@ -259,3 +259,10 @@ paket-files/
 # Python Tools for Visual Studio (PTVS)
 __pycache__/
 *.pyc
+
+# Visual Studio Code cache/options directory
+.vscode/
+
+# My ignore files
+infos.txt
+
